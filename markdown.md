@@ -22,7 +22,7 @@
 ###  loki
 
 [GitHub](http://github.com)
-[GitHub](http://www.youtube.com)
+[Youtube](http://www.youtube.com)
 
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Collage_of_Six_Cats-02.jpg)
 
